@@ -4,8 +4,6 @@
 
 
 
-# Alphacast.io
-
 
 <p align="center">
 <img src="https://www.alphacast.io/images/alphacast.svg" alt="react" width="300" height="150" />
@@ -48,7 +46,7 @@ En este trabajo se transforman las series temporales de los principales indices 
 
 
 
-# Graficos final:
+# Grafico final:
 
 Películas:
 
