@@ -19,6 +19,7 @@ Alphacast es una start-up en crecimiento que se encuentra construyendo una plata
 
 En este trabajo se transforman las series temporales de los principales indices bursátiles internacionales a base 100 en enero de 2007 hasta el 31/01/2022. La idea principal del trabajo es poder comparar las series de tiempo principalmente durante los dos shock que se vivieron en el periodo analizado, la crisis subprime y el Covid-19.
 
+Una vez terminado el primer trabajo se hace Web Scraping en la pagina [TradingEconomics](https://tradingeconomics.com/) y se recopilan datos macroeconomicos de la gran mayoria de los paises del mundo.
 
 
 # Librerias Utilizadas
@@ -46,13 +47,25 @@ En este trabajo se transforman las series temporales de los principales indices 
 
 
 
-# Grafico final:
+# Graficos finales:
 
-Películas:
+
+Series Temporales
 
 ![.](plots/plot1.png)
 
+PBI Per Capita
 
+![.](plots/plot2.png)
 
+Deuda / PBI
 
+![.](plots/plot3.png)
 
+Inflacion Interanual Paises Europa
+
+![.](plots/plot4.png)
+
+Inflacion Interanual Paises Asia
+
+![.](plots/plot5.png)
